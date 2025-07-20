@@ -1,5 +1,5 @@
 ![Logo](https://i.imgur.com/1adEOvh.png)
-## Custom Windows desktop widgets --- __BETA__
+## Custom Windows desktop widgets
 
 [![Powered by Electron](https://i.imgur.com/MZqkD2n.png)](http://electronjs.org/) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 &nbsp;
@@ -23,7 +23,7 @@
 
 The app currently only supports Windows 10/11 operating systems.
 
-To download head over to [releases](https://github.com/Toxic48/Custom-Widget-App/releases) section, and choose the setup file (.exe) from the latest release.
+To download head over to [releases](https://github.com/tokicdev/Custom-Widget-App/releases) section, and choose the setup file (.exe) from the latest release.
 After the setup file is downloaded run it and follow further instructions.
 
 &nbsp;
