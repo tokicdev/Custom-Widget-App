@@ -29,7 +29,7 @@ After the setup file is downloaded run it and follow further instructions.
 &nbsp;
 ## Screenshots
 
-![Dashboard](https://i.imgur.com/6pdAxpR.png)
+![Dashboard](https://i.imgur.com/GBn14ab.png)
 ![Widget](https://i.imgur.com/VwUWsLS.png)
 
 &nbsp;
